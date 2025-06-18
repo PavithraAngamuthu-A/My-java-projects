@@ -1,3 +1,7 @@
+/*It’s about anagram.i/p was array of strings .and a word was given to find whether it has anagram in given array.
+I/p catch, got, tiger, mat, eat, Pat, tap, tea
+Word: ate
+O/p eat, tea*/
 import java.util.*;
 public class Anagram {
     public static char[] toLower(String a) {
