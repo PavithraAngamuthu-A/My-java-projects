@@ -1,3 +1,9 @@
+/*Print second frequently occurring number in given series
+Example :
+Input: 1 1 2 3 1 2 4
+Output: 2
+Explanation: 1 occurs 3 times, 2 occurs 2 times, 3 occurs 1 time and 4 occurs 1 time. Hence second frequently occurring number in given series is 2*/
+
 import java.util.*;
 public class SecondFreq {
 
