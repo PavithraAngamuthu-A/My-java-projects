@@ -1,3 +1,6 @@
+/*Check if a number ‘a’ is present in another number ‘b.
+ input a=234;b=123456
+ output=yes //234 is present in b*/
 import java.util.*;
 public class CheckApresentB {
     public static int check(int a,int[]a1){
